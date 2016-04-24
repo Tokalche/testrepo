@@ -1,1 +1,5 @@
 #first file version 1.0
+
+
+This is modification num.1 # 
+This is modification num.2 # before modification num.1 was commited or pushed the the remote repo
